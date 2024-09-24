@@ -465,6 +465,7 @@ class _ListingviewState extends State<Listingview> {
                             mainAxisAlignment: MainAxisAlignment.center,
                             children: [
                               const Column(
+
                                 crossAxisAlignment: CrossAxisAlignment.start,
                                 children: [
                                   Text(
